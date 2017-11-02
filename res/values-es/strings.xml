@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maileador Anónimo</string>
+    <string name="to">Enviar a (email)</string>
+    <string name="from">Enviado de (email falso)</string>
+    <string name="subject">Asunto</string>
+    <string name="content">Contenido del mensaje</string>
+    <string name="send">Enviar</string>
+    <string name="success">¡Mensaje enviado correctamente a</string>
+    <string name="nosuccess">¡Por favor comprueba tu conexión a internet!</string>
+    <string name="madeBy">Creado por Lonami</string>
+    
+    <string name="font">Fuente</string>
+    <string-array name="fonts">
+    	<item>Arial</item>
+    	<item>Arial Black</item>
+    	<item>Comic Sans MS</item>
+    	<item>Impact</item>
+    	<item>Lucida Sans Unicode</item>
+    	<item>Tahoma</item>
+    	<item>Trebuchet MS</item>
+    	<item>Verdana</item>
+    </string-array>
+</resources>

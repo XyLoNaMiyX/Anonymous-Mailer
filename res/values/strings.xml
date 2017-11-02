@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anonymous Mailer</string>
+    <string name="to">Send to (email)</string>
+    <string name="from">Sent from (fake email)</string>
+    <string name="subject">Subject</string>
+    <string name="content">Message content</string>
+    <string name="send">Send</string>
+    <string name="success">Message sent successfully to</string>
+    <string name="nosuccess">Please check your network connection!</string>
+    <string name="madeBy">Made by Lonami</string>
+    
+    <string name="font">Font</string>
+    <string-array name="fonts">
+    	<item>Arial</item>
+    	<item>Arial Black</item>
+    	<item>Comic Sans MS</item>
+    	<item>Impact</item>
+    	<item>Lucida Sans Unicode</item>
+    	<item>Tahoma</item>
+    	<item>Trebuchet MS</item>
+    	<item>Verdana</item>
+    </string-array>
+</resources>
